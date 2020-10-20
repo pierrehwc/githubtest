@@ -2,4 +2,4 @@
 
 test github
 
-I am learing how to use github
+I am learning how to use github...
